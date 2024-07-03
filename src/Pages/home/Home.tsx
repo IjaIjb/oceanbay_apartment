@@ -24,7 +24,7 @@ const Home = () => {
                 <div className="z-10">
                   <h4 className="text-white z-10  text-[22px] leading-[40px] md:text-[28px] font-[400]">
                     Welcome to{" "}
-                    <span className="text-amber-400">Lazik Apartment!</span>
+                    <span className="text-amber-400">Oceanbay Apartment!</span>
                     <br /> We are excited to have you stay with us and hope you
                     have a comfortable and enjoyable visit.
                     <br />
@@ -85,7 +85,7 @@ const Home = () => {
                   to="/catalog"
                   className="bg-amber-400 rounded-full md:px-3 px-1 md:py-3 py-2"
                 >
-                  Lazik Catalog
+                  Oceanbay Catalog
                 </Link>
               </div>
 
